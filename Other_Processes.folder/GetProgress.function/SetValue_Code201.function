@@ -1,0 +1,21 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeRead",
+      "Value": 201
+    },
+    {
+      "Id": "Target",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "Code",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:Int64"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "8Ska",
+  "Name": "TermSheet_Body_documentSettings_footer",
+  "Properties": [
+    {
+      "Id": "5UQ7",
+      "Name": "footerLine",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "FPLo",
+      "Name": "leftContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AQ6T",
+      "Name": "centerContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "borU",
+      "Name": "rightContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "keML",
+      "Name": "adjustMargin",
+      "Type": "Compiled:String"
+    }
+  ]
+}

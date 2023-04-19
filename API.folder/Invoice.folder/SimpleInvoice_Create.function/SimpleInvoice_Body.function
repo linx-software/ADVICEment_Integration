@@ -1,0 +1,67 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:QNzL",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:QNzL",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"documentSettings\":{\"primaryHEXColour\":\"0DBB72\", \"secondaryHEXColour\":\"808080\", \"textHEXColour\":\"222222\", \"font\":\"open sans\", \"documentName\":\"Invoice from ADVICEment by Linx\", \"logo\":{\"LinxExpression\":\"[PARSED]\"}, \"logoType\":\"png\", \"logoWidth\":{\"LinxExpression\":\"[PARSED]\"}, \"margins\":[\"1cm\",\"1cm\",\"4.5cm\",\"1cm\"], \"headheight\":\"1.75cm\", \"headsep\":\"0.25cm\", \"footskip\":\"0.5cm\", \"includehead\":true, \"includefoot\":true, \"showframe\":false, \"header\":{\"headerLine\":false, \"leftContent\":\"logo\", \"centerContent\":\"true\", \"rightContent\":\"\\\\color{Secondary} \\\\Huge INVOICE #12345 \\\\\\\\ \\\\smallskip \\\\large 01 March 2022\"}, \"footer\":{\"footerLine\":true, \"leftContent\":\"\\\\medskip \\\\color{Primary}\\\\textbf{Payment Terms and Comments} \\\\\\\\ \\\\medskip \\\\color{Secondary} Payment terms: End of Month (EOM)\\\\\\\\ \\\\smallskip It is hereby certified that this invoice \\\\\\\\ shows the actual price of the goods described, \\\\\\\\  that no other invoice has been or will be issued, \\\\\\\\  and that all particulars are true and correct.\", \"centerContent\":{\"LinxExpression\":\"[PARSED]\"}, \"rightContent\":\"\\\\medskip {\\\\color{Primary}\\\\textbf{Company Services (Pty) Ltd}} \\\\\\\\ \\\\medskip \\\\color{Primary}Address: \\\\\\\\ \\\\color{Secondary} 1 Rivonia Road, Sandton, 2196, South Africa \\\\\\\\ \\\\color{Primary}Telephone: \\\\\\\\ \\\\color{Secondary} +27 82 123 4567 \\\\\\\\ \\\\color{Primary}Email: \\\\\\\\ \\\\color{Secondary} info@gmail.com \"}}, \"documentContent\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "documentSettings",
+              "logo"
+            ],
+            "expression": {
+              "Expression": "Logo_ToBase64",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentSettings",
+              "logoWidth"
+            ],
+            "expression": {
+              "Expression": "LogoWidth",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentSettings",
+              "footer",
+              "centerContent"
+            ],
+            "expression": {
+              "Expression": "Empty_JSON",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentContent"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.DocumentContent",
+              "CompiledExpression": "={0}",
+              "Type": "Custom:W03J"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:QNzL"
+}

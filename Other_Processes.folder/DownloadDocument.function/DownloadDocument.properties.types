@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "VrLq",
+      "Properties": [
+        {
+          "Id": "H3HK",
+          "Name": "URL",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Jwvl",
+          "Name": "FileName",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

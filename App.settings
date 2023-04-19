@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "UffG",
+    "Name": "Advancement_APIKey",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "v33f",
+    "Name": "LogoLocation",
+    "Type": "Compiled:String",
+    "Value": ""
+  },
+  {
+    "Id": "pLLL",
+    "Name": "OutputLocation",
+    "Type": "Compiled:String",
+    "Value": ""
+  }
+]

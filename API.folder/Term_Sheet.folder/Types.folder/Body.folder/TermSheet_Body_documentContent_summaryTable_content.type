@@ -1,0 +1,16 @@
+{
+  "Id": "d5v2",
+  "Name": "TermSheet_Body_documentContent_summaryTable_content",
+  "Properties": [
+    {
+      "Id": "HCHC",
+      "Name": "Column1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZeVZ",
+      "Name": "Column2",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Id": "IuKU",
+  "Name": "DocumentStatus_ResponseBody",
+  "Properties": [
+    {
+      "Id": "lD6V",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QKxt",
+      "Name": "startedAt",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Dbfv",
+      "Name": "statusCode",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "HR5c",
+      "Name": "statusDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5AQl",
+      "Name": "calculationLogUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hacO",
+      "Name": "latexLogUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "N2vG",
+      "Name": "documentUrl",
+      "Type": "Compiled:String"
+    }
+  ]
+}

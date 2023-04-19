@@ -1,0 +1,31 @@
+{
+  "Id": "Lp9Z",
+  "Name": "TermSheet_Body_documentContent_secondColumnData",
+  "Properties": [
+    {
+      "Id": "VwKl",
+      "Name": "width",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KaSR",
+      "Name": "heading",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BsiV",
+      "Name": "tableLineSpacing",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "Y7ox",
+      "Name": "columnType",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "2JjJ",
+      "Name": "content",
+      "Type": "List:Custom:koF6"
+    }
+  ]
+}

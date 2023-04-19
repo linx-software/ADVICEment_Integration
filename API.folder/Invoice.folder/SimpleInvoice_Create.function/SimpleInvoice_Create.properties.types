@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "lrU2",
+      "Properties": [
+        {
+          "Id": "sFLr",
+          "Name": "DocumentContent",
+          "Type": "Custom:W03J",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

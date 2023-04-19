@@ -1,0 +1,121 @@
+{
+  "Id": "gKZX",
+  "Name": "TermSheet_Body_documentSettings",
+  "Properties": [
+    {
+      "Id": "p9Ka",
+      "Name": "font",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "l1jK",
+      "Name": "fontSize",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Oe7r",
+      "Name": "primaryHEXColour",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KsSW",
+      "Name": "secondaryHEXColour",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1spP",
+      "Name": "textHEXColour",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KcP8",
+      "Name": "documentName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AMDg",
+      "Name": "logo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5tkp",
+      "Name": "logoType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DvGn",
+      "Name": "logoWidth",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BOol",
+      "Name": "topMargin",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ROQU",
+      "Name": "rightMargin",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nWQw",
+      "Name": "bottomMargin",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gud5",
+      "Name": "leftMargin",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BPQn",
+      "Name": "headheight",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fTOt",
+      "Name": "headsep",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NSgR",
+      "Name": "footskip",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1oeZ",
+      "Name": "marginparwidth",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "U0M4",
+      "Name": "marginparsep",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RNEo",
+      "Name": "includehead",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "OWH4",
+      "Name": "includefoot",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "e3Wz",
+      "Name": "showframe",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Tnm4",
+      "Name": "header",
+      "Type": "Custom:JDH9"
+    },
+    {
+      "Id": "LUX6",
+      "Name": "footer",
+      "Type": "Custom:8Ska"
+    }
+  ]
+}

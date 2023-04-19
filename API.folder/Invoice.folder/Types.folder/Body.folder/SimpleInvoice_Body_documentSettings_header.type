@@ -1,0 +1,26 @@
+{
+  "Id": "a0c9",
+  "Name": "SimpleInvoice_Body_documentSettings_header",
+  "Properties": [
+    {
+      "Id": "DQoz",
+      "Name": "headerLine",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "1m3E",
+      "Name": "leftContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3oGo",
+      "Name": "centerContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1wWd",
+      "Name": "rightContent",
+      "Type": "Compiled:String"
+    }
+  ]
+}

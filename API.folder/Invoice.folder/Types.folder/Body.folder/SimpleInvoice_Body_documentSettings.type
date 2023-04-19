@@ -1,0 +1,91 @@
+{
+  "Id": "l3Pd",
+  "Name": "SimpleInvoice_Body_documentSettings",
+  "Properties": [
+    {
+      "Id": "oDnj",
+      "Name": "primaryHEXColour",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nrgq",
+      "Name": "secondaryHEXColour",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HohA",
+      "Name": "textHEXColour",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mKfc",
+      "Name": "font",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BZ7y",
+      "Name": "documentName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SrtO",
+      "Name": "logo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jI3F",
+      "Name": "logoType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BLuK",
+      "Name": "logoWidth",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WcCM",
+      "Name": "margins",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "hl8h",
+      "Name": "headheight",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "u6WW",
+      "Name": "headsep",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YvWQ",
+      "Name": "footskip",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YnAS",
+      "Name": "includehead",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "6Xou",
+      "Name": "includefoot",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "fEcF",
+      "Name": "showframe",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "qscc",
+      "Name": "header",
+      "Type": "Custom:a0c9"
+    },
+    {
+      "Id": "a5rI",
+      "Name": "footer",
+      "Type": "Custom:AFui"
+    }
+  ]
+}

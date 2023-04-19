@@ -1,0 +1,31 @@
+{
+  "Id": "W03J",
+  "Name": "SimpleInvoice_Body_documentContent",
+  "Properties": [
+    {
+      "Id": "Pb5m",
+      "Name": "firstColumnDetails",
+      "Type": "Custom:UT6g"
+    },
+    {
+      "Id": "Q9OK",
+      "Name": "secondColumnDetails",
+      "Type": "Custom:UT6g"
+    },
+    {
+      "Id": "k4Li",
+      "Name": "totalPayable",
+      "Type": "Custom:GvZg"
+    },
+    {
+      "Id": "cS6S",
+      "Name": "tableDetails",
+      "Type": "Custom:Zkdg"
+    },
+    {
+      "Id": "AJIZ",
+      "Name": "text",
+      "Type": "Compiled:String"
+    }
+  ]
+}

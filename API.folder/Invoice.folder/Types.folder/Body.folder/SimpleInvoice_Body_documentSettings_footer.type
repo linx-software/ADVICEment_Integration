@@ -1,0 +1,26 @@
+{
+  "Id": "AFui",
+  "Name": "SimpleInvoice_Body_documentSettings_footer",
+  "Properties": [
+    {
+      "Id": "VjBm",
+      "Name": "footerLine",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "RLDk",
+      "Name": "leftContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6Yjz",
+      "Name": "centerContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MIhe",
+      "Name": "rightContent",
+      "Type": "Compiled:String"
+    }
+  ]
+}

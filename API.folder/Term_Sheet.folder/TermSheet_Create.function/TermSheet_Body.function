@@ -1,0 +1,103 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:TcuW",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:TcuW",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"documentSettings\":{\"font\":\"droid sans\", \"fontSize\":8, \"primaryHEXColour\":\"0dbb72\", \"secondaryHEXColour\":\"0dbb72\", \"textHEXColour\":\"444444\", \"documentName\":\"Term Sheet from ADVICEment by Linx\", \"logo\":{\"LinxExpression\":\"[PARSED]\"}, \"logoType\":\"png\", \"logoWidth\":{\"LinxExpression\":\"[PARSED]\"}, \"topMargin\":\"-0.1cm\", \"rightMargin\":\"9cm\", \"bottomMargin\":\"-0.1cm\", \"leftMargin\":\"1cm\", \"headheight\":\"3.13cm\", \"headsep\":\"0.5cm\", \"footskip\":\"1.5cm\", \"marginparwidth\":\"7cm\", \"marginparsep\":\"1cm\", \"includehead\":true, \"includefoot\":true, \"showframe\":false, \"header\":{\"headerLine\":false, \"leftContent\":\"\\\\begin{tikzpicture} \\\\node (rectange) [rectangle, draw = Primary, anchor=south west, inner sep=0,outer sep =0, fill = Primary, minimum width = 21cm,  minimum height = 3.0cm] at ([xshift=0.0cm, yshift=0cm]current page.north west)  {}; \\\\node[right] at ([xshift=0.90cm, yshift=-0.9cm]rectange.north west) {\\\\bfseries\\\\color{white}\\\\huge{ADVICEment Term Sheet}}; \\\\node[right] at ([xshift=0.90cm, yshift=-1.675cm]rectange.north west) {\\\\color{white}\\\\LARGE March 2023}; \\\\node (subtitle) [minimum width=11cm, anchor=north west, text width=11cm, inner sep=0.0cm, outer sep=0] at ([xshift=1.00cm, yshift=-2.25cm]rectange.north west) {\\\\color{white}\\\\normalsize\\\\bfseries{Best Dynamic PDF Generation} }; \\\\node (logo) [left] at ([xshift=-0.99cm, yshift=-1.5cm]rectange.north east) {\\\\advGetImage{key = documentSettings.logo, typeKey=documentSettings.logoType, widthKey = documentSettings.logoWidth}}; \\\\end{tikzpicture}\", \"centerContent\":{\"LinxExpression\":\"[PARSED]\"}, \"rightContent\":{\"LinxExpression\":\"[PARSED]\"}, \"adjustMargin\":\"1cm\"}, \"footer\":{\"footerLine\":false, \"leftContent\":\"\\\\begin{tikzpicture} \\\\node (rectange) [rectangle, draw = Primary, anchor=south west, inner sep=0,outer sep =0, fill = Primary, minimum width = 21cm,  minimum height = 1.0cm] at ([xshift=0.0cm, yshift=0cm]current page.south west)  {}; \\\\node[right] at ([xshift=0.90cm, yshift=0.5cm]rectange.south west) {\\\\bfseries\\\\color{white}\\\\tiny{Legal notice goes here and other fun things}}; \\\\end{tikzpicture}\", \"centerContent\":{\"LinxExpression\":\"[PARSED]\"}, \"rightContent\":{\"LinxExpression\":\"[PARSED]\"}, \"adjustMargin\":\"1cm\"}}, \"documentContent\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "documentSettings",
+              "logo"
+            ],
+            "expression": {
+              "Expression": "Logo_ToBase64",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentSettings",
+              "logoWidth"
+            ],
+            "expression": {
+              "Expression": "LogoWidth",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentSettings",
+              "header",
+              "centerContent"
+            ],
+            "expression": {
+              "Expression": "Empty_JSON",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentSettings",
+              "header",
+              "rightContent"
+            ],
+            "expression": {
+              "Expression": "Empty_JSON",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentSettings",
+              "footer",
+              "centerContent"
+            ],
+            "expression": {
+              "Expression": "Empty_JSON",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentSettings",
+              "footer",
+              "rightContent"
+            ],
+            "expression": {
+              "Expression": "Empty_JSON",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "documentContent"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.DocumentContent",
+              "CompiledExpression": "={0}",
+              "Type": "Custom:WLt4"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:TcuW"
+}

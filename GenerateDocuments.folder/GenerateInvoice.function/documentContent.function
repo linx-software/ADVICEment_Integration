@@ -1,0 +1,35 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:W03J",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:W03J",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"firstColumnDetails\":{\"headings\":[\"\\\\color{Primary} Client\",\"\\\\color{Primary} Address\",\"\\\\color{Primary} Description\",\"\\\\color{Primary} Contact\",\"\\\\color{Secondary} Tel\",\"\\\\color{Secondary} Email\"], \"values\":[{\"LinxExpression\":\"[PARSED]\"},\"2 Rivonia Road, \\\\newline Sandton, \\\\newline 2196, \\\\newline South Africa \",\"PDF Rendering Services\",\"John Smith\",\"+27 82 123 4567\",\"smith@company.co.za\"]}, \"secondColumnDetails\":{\"headings\":[\"\\\\color{Primary} Payable To\",\"\\\\color{Secondary} Bank\",\"\\\\color{Secondary} Account Name\",\"\\\\color{Secondary} Account #\",\"\\\\color{Secondary} Branch Name\",\"\\\\color{Secondary} Branch #\\\"\",\"\\\\color{Secondary} SWIFT\",\"\\\\color{Secondary} Reference\",\"\\\\color{Primary} Contact\",\"\\\\color{Secondary} Tel\",\"\\\\color{Secondary} Email\"], \"values\":[\"Company Services (Pty) Ltd\",\"New Bank\",\"Company\",\"12 345 678 9\",\"Rivonia\",\"12345\",\"SBZAZAJK\",\"Smith123\",\"Tom Jonnes\",\"+ 27 82 123 4567\",\"tom@mail.com\"]}, \"totalPayable\":{\"currency\":\"$\", \"amount\":\"115 000\", \"subtitle\":\"due 01 April 2022\"}, \"tableDetails\":{\"columnNames\":[\"Description\",\"Currency\",\"Amount (Ex-VAT)\"], \"columnType\":[\"L{0.6\\\\linewidth}\",\"C{0.15\\\\linewidth}\",\"R{0.15\\\\linewidth}\"], \"content\":[{\"Column1\":\"Jan-2022 Project PDF - 120 Hours\", \"Column2\":\"USD\", \"Column3\":\"$ 9 600\"},{\"Column1\":\"Feb-2022 - Project PDF - 80 Hours\", \"Column2\":\"USD\", \"Column3\":\"$ 6 400\"},{\"Column1\":\"Mar-2022 - Project PDF - 80 Hours\", \"Column2\":\"USD\", \"Column3\":\"$ 6 400\"}], \"totals\":{\"headings\":[\"Total Ex-Vat:\",\"Vat (15%):\",\"Total:\"], \"values\":[\"$ 23 200\",\"$ 3 480\",\"$ 26 680\"]}}, \"text\":\"\\\\smallskip \\\\begin{center} \\\\Large \\\\emph{Thank you for your business!} \\\\end{center}\"}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "firstColumnDetails",
+              "values",
+              "[]"
+            ],
+            "expression": {
+              "Expression": "ClientCompany",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:W03J"
+}

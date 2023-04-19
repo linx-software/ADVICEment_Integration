@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "gTdP",
+      "Properties": [
+        {
+          "Id": "BGbZ",
+          "Name": "FileName",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Hew3",
+          "Name": "URL",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

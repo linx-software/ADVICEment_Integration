@@ -1,0 +1,50 @@
+{
+  "Properties": [
+    {
+      "Id": "BGbZ",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"Invoice\" + \"_\" +ClientCompany.Replace(\" \", \"\")+\"_\"+ $.System.CurrentDateTime.ToString(\"yyyy-MM-dd\") + \".pdf\"",
+        "CompiledExpression": "=\"Invoice\"+\"_\"+{1}.Replace(\" \",\"\")+\"_\"+{0}.ToString(\"yyyy-MM-dd\")+\".pdf\"",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Hew3",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "SimpleInvoice_Create",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "BGbZ": "FileName",
+        "Hew3": "URL"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "nUy4",
+        "Name": "Other_Processes.GetProgress",
+        "Parameters": "Generated:gTdP",
+        "Result": null,
+        "IsValid": true,
+        "QualifiedPath": "FL:Other_Processes→PC:GetProgress"
+      },
+      "ValueType": "Linx.ProcessReference"
+    }
+  ]
+}

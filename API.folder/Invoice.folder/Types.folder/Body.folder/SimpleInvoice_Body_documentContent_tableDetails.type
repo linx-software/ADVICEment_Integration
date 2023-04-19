@@ -1,0 +1,26 @@
+{
+  "Id": "Zkdg",
+  "Name": "SimpleInvoice_Body_documentContent_tableDetails",
+  "Properties": [
+    {
+      "Id": "EHQo",
+      "Name": "columnNames",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "z7kH",
+      "Name": "columnType",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "qV2o",
+      "Name": "content",
+      "Type": "List:Custom:2cKX"
+    },
+    {
+      "Id": "b955",
+      "Name": "totals",
+      "Type": "Custom:UT6g"
+    }
+  ]
+}

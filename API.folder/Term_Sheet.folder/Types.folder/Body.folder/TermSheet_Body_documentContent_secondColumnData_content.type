@@ -1,0 +1,16 @@
+{
+  "Id": "koF6",
+  "Name": "TermSheet_Body_documentContent_secondColumnData_content",
+  "Properties": [
+    {
+      "Id": "cwbD",
+      "Name": "Column1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4g8a",
+      "Name": "Column2",
+      "Type": "Compiled:String"
+    }
+  ]
+}

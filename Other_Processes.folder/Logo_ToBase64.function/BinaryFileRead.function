@@ -1,0 +1,11 @@
+{
+  "Properties": [
+    {
+      "Id": "File path",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "C:\\Users\\Shantoie.Vorster\\Downloads\\Linx Logo Type.png"
+    }
+  ],
+  "Result": "List:Compiled:Byte"
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "QNzL",
+  "Name": "SimpleInvoice_Body",
+  "Properties": [
+    {
+      "Id": "6aZz",
+      "Name": "documentSettings",
+      "Type": "Custom:l3Pd"
+    },
+    {
+      "Id": "vEFr",
+      "Name": "documentContent",
+      "Type": "Custom:W03J"
+    }
+  ]
+}

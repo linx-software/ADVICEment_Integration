@@ -1,0 +1,21 @@
+{
+  "Id": "qjnB",
+  "Name": "TermSheet_Body_documentContent_body",
+  "Properties": [
+    {
+      "Id": "lI3v",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1yKD",
+      "Name": "content",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vOt5",
+      "Name": "order",
+      "Type": "Compiled:Decimal"
+    }
+  ]
+}

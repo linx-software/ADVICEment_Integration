@@ -1,0 +1,21 @@
+{
+  "Id": "GvZg",
+  "Name": "SimpleInvoice_Body_documentContent_totalPayable",
+  "Properties": [
+    {
+      "Id": "nLbS",
+      "Name": "currency",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Pdxm",
+      "Name": "amount",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TPN6",
+      "Name": "subtitle",
+      "Type": "Compiled:String"
+    }
+  ]
+}

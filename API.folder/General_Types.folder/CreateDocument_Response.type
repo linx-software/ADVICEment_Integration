@@ -1,0 +1,11 @@
+{
+  "Id": "twfJ",
+  "Name": "CreateDocument_Response",
+  "Properties": [
+    {
+      "Id": "8eFw",
+      "Name": "documentStatusUrl",
+      "Type": "Compiled:String"
+    }
+  ]
+}

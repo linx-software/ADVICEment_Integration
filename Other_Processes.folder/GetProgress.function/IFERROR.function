@@ -1,0 +1,72 @@
+{
+  "Properties": [
+    {
+      "Id": "Conditions",
+      "Type": "Compiled:System.Collections.Generic.List`1[[Twenty57.Linx.Plugins.Standard.IfElse.Condition, Twenty57.Linx.Plugins.Standard, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": [
+        {
+          "ExecutionPathId": "Unv1",
+          "Name": "Generation_Error"
+        },
+        {
+          "ExecutionPathId": "US2g",
+          "Name": "Generation_Success"
+        }
+      ]
+    },
+    {
+      "Id": "Expression_0",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "DocumentStatus_ResponseBody.statusCode == 404",
+        "CompiledExpression": "={0}==404",
+        "Type": "Compiled:Boolean"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Expression_1",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "DocumentStatus_ResponseBody.statusCode == 201",
+        "CompiledExpression": "={0}==201",
+        "Type": "Compiled:Boolean"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Show else",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": false
+    },
+    {
+      "Id": "Stop when true",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": true
+    }
+  ],
+  "ExecutionPaths": [
+    {
+      "PluginId": "Unv1",
+      "Name": "Generation_Error",
+      "Result": null,
+      "Order": 0,
+      "IterationHint": "ZeroOrOnce",
+      "ConstitutesControlFlow": true
+    },
+    {
+      "PluginId": "US2g",
+      "Name": "Generation_Success",
+      "Result": null,
+      "Order": 1,
+      "IterationHint": "ZeroOrOnce",
+      "ConstitutesControlFlow": true
+    }
+  ],
+  "Version": "1"
+}

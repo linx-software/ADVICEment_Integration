@@ -1,0 +1,16 @@
+{
+  "Id": "TcuW",
+  "Name": "TermSheet_Body",
+  "Properties": [
+    {
+      "Id": "WgpV",
+      "Name": "documentSettings",
+      "Type": "Custom:gKZX"
+    },
+    {
+      "Id": "YntB",
+      "Name": "documentContent",
+      "Type": "Custom:WLt4"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "JDH9",
+  "Name": "TermSheet_Body_documentSettings_header",
+  "Properties": [
+    {
+      "Id": "REaG",
+      "Name": "headerLine",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "T1CX",
+      "Name": "leftContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4y1q",
+      "Name": "centerContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GJol",
+      "Name": "rightContent",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2v86",
+      "Name": "adjustMargin",
+      "Type": "Compiled:String"
+    }
+  ]
+}

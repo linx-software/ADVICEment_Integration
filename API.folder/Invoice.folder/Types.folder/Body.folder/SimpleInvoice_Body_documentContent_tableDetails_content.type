@@ -1,0 +1,21 @@
+{
+  "Id": "2cKX",
+  "Name": "SimpleInvoice_Body_documentContent_tableDetails_content",
+  "Properties": [
+    {
+      "Id": "Wg3T",
+      "Name": "Column1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XN4U",
+      "Name": "Column2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2YE4",
+      "Name": "Column3",
+      "Type": "Compiled:String"
+    }
+  ]
+}

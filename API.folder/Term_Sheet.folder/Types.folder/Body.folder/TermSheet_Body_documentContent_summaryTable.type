@@ -1,0 +1,21 @@
+{
+  "Id": "mJvx",
+  "Name": "TermSheet_Body_documentContent_summaryTable",
+  "Properties": [
+    {
+      "Id": "I211",
+      "Name": "columnNames",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "PFE6",
+      "Name": "columnType",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "3Uwd",
+      "Name": "content",
+      "Type": "List:Custom:d5v2"
+    }
+  ]
+}

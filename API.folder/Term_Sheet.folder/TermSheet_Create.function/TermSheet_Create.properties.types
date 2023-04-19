@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "qo2D",
+      "Properties": [
+        {
+          "Id": "sFLr",
+          "Name": "DocumentContent",
+          "Type": "Custom:WLt4",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]
