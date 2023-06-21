@@ -4,12 +4,12 @@
       "Id": "Type",
       "Type": "Compiled:Linx.ITypeReference",
       "ValueUsage": "DesignTime",
-      "Value": "Custom:IuKU",
+      "Value": "Custom:DmHE",
       "ValueType": "Linx.ValidCustomTypeReference"
     },
     {
       "Id": "Value",
-      "Type": "Custom:IuKU",
+      "Type": "Custom:DmHE",
       "ValueUsage": "RuntimeRead",
       "Value": {
         "Expression": "GetDocStatus.ResponseBody",
@@ -19,5 +19,5 @@
       "ValueType": "Linx.CSharpExpression"
     }
   ],
-  "Result": "Custom:IuKU"
+  "Result": "Custom:DmHE"
 }

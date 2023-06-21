@@ -1,19 +1,19 @@
 {
-  "Id": "qjnB",
+  "Id": "VTZz",
   "Name": "TermSheet_Body_documentContent_body",
   "Properties": [
     {
-      "Id": "lI3v",
+      "Id": "Umhc",
       "Name": "type",
       "Type": "Compiled:String"
     },
     {
-      "Id": "1yKD",
+      "Id": "xmLQ",
       "Name": "content",
       "Type": "Compiled:String"
     },
     {
-      "Id": "vOt5",
+      "Id": "Bo7g",
       "Name": "order",
       "Type": "Compiled:Decimal"
     }

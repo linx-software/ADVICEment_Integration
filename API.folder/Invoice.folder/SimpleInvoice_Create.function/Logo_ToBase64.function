@@ -12,7 +12,7 @@
       "Type": "Compiled:Linx.IProcessReference",
       "ValueUsage": "DesignTime",
       "Value": {
-        "Id": "t1yq",
+        "Id": "zpFI",
         "Name": "Other_Processes.Logo_ToBase64",
         "Parameters": null,
         "Result": "Compiled:String",

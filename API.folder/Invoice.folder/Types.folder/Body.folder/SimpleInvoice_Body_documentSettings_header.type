@@ -1,24 +1,24 @@
 {
-  "Id": "a0c9",
+  "Id": "xqEg",
   "Name": "SimpleInvoice_Body_documentSettings_header",
   "Properties": [
     {
-      "Id": "DQoz",
+      "Id": "OPNx",
       "Name": "headerLine",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "1m3E",
+      "Id": "wyqr",
       "Name": "leftContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "3oGo",
+      "Id": "PGeM",
       "Name": "centerContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "1wWd",
+      "Id": "v6En",
       "Name": "rightContent",
       "Type": "Compiled:String"
     }

@@ -37,7 +37,7 @@
       "Type": "Compiled:Linx.IProcessReference",
       "ValueUsage": "DesignTime",
       "Value": {
-        "Id": "nUy4",
+        "Id": "kvaD",
         "Name": "Other_Processes.GetProgress",
         "Parameters": "Generated:gTdP",
         "Result": null,

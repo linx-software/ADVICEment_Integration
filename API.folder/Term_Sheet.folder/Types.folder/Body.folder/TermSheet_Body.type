@@ -1,16 +1,16 @@
 {
-  "Id": "TcuW",
+  "Id": "4P8h",
   "Name": "TermSheet_Body",
   "Properties": [
     {
-      "Id": "WgpV",
+      "Id": "kEMg",
       "Name": "documentSettings",
-      "Type": "Custom:gKZX"
+      "Type": "Custom:c0FZ"
     },
     {
-      "Id": "YntB",
+      "Id": "mA7D",
       "Name": "documentContent",
-      "Type": "Custom:WLt4"
+      "Type": "Custom:tVyW"
     }
   ]
 }

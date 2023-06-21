@@ -13,7 +13,7 @@
       "Value": {
         "Expression": "TermSheet_Body",
         "CompiledExpression": "={0}",
-        "Type": "Custom:TcuW"
+        "Type": "Custom:4P8h"
       },
       "ValueType": "Linx.CSharpExpression"
     },
@@ -74,7 +74,7 @@
       "Id": "Output type",
       "Type": "Compiled:Linx.ITypeReference",
       "ValueUsage": "DesignTime",
-      "Value": "Custom:twfJ",
+      "Value": "Custom:J3zv",
       "ValueType": "Linx.ValidCustomTypeReference"
     },
     {
@@ -127,7 +127,7 @@
       "Value": "https://api.advicement.io/v1/templates/pub-term-sheet-v1/compile"
     }
   ],
-  "Result": "Generated:nqs6",
+  "Result": "Generated:CIQ5",
   "RuntimeCharacteristics": {
     "IsTerminating": false,
     "ExecutionPathExecution": "OneOrMore"

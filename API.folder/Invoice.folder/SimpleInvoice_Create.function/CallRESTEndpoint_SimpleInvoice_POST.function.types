@@ -2,18 +2,18 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "W2qX",
+      "Id": "p70Q",
       "Properties": [
         {
           "Id": "ResponseHeaders",
           "Name": "ResponseHeaders",
-          "Type": "List:Generated:dGh4",
+          "Type": "List:Generated:D1Ka",
           "Access": "ReadWrite"
         },
         {
           "Id": "ResponseBody",
           "Name": "ResponseBody",
-          "Type": "Custom:twfJ",
+          "Type": "Custom:J3zv",
           "Access": "ReadWrite"
         },
         {
@@ -28,7 +28,7 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "dGh4",
+      "Id": "D1Ka",
       "Properties": [
         {
           "Id": "Name",

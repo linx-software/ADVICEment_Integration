@@ -1,14 +1,14 @@
 {
-  "Id": "d5v2",
+  "Id": "qJAI",
   "Name": "TermSheet_Body_documentContent_summaryTable_content",
   "Properties": [
     {
-      "Id": "HCHC",
+      "Id": "EZnT",
       "Name": "Column1",
       "Type": "Compiled:String"
     },
     {
-      "Id": "ZeVZ",
+      "Id": "ShCI",
       "Name": "Column2",
       "Type": "Compiled:String"
     }

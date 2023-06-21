@@ -4,7 +4,12 @@
       "Id": "File path",
       "Type": "Compiled:String",
       "ValueUsage": "RuntimeRead",
-      "Value": "C:\\Users\\Shantoie.Vorster\\Downloads\\Linx Logo Type.png"
+      "Value": {
+        "Expression": "$.Settings.LogoLocation",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
     }
   ],
   "Result": "List:Compiled:Byte"

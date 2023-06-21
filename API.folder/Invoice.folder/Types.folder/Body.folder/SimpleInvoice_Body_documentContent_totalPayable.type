@@ -1,19 +1,19 @@
 {
-  "Id": "GvZg",
+  "Id": "33pc",
   "Name": "SimpleInvoice_Body_documentContent_totalPayable",
   "Properties": [
     {
-      "Id": "nLbS",
+      "Id": "UGIq",
       "Name": "currency",
       "Type": "Compiled:String"
     },
     {
-      "Id": "Pdxm",
+      "Id": "AV2x",
       "Name": "amount",
       "Type": "Compiled:String"
     },
     {
-      "Id": "TPN6",
+      "Id": "FAFl",
       "Name": "subtitle",
       "Type": "Compiled:String"
     }

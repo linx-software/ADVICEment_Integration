@@ -2,12 +2,12 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "qo2D",
+      "Id": "4ETS",
       "Properties": [
         {
           "Id": "sFLr",
           "Name": "DocumentContent",
-          "Type": "Custom:WLt4",
+          "Type": "Custom:tVyW",
           "Access": "ReadWrite"
         }
       ]

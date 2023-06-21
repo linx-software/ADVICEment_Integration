@@ -1,14 +1,14 @@
 {
-  "Id": "UT6g",
+  "Id": "ldlW",
   "Name": "SimpleInvoice_Body_documentContent_firstColumnDetails",
   "Properties": [
     {
-      "Id": "eSk5",
+      "Id": "Egk0",
       "Name": "headings",
       "Type": "List:Compiled:String"
     },
     {
-      "Id": "7Rlh",
+      "Id": "hNvQ",
       "Name": "values",
       "Type": "List:Compiled:String"
     }

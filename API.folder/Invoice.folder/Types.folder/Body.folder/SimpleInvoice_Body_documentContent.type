@@ -1,29 +1,29 @@
 {
-  "Id": "W03J",
+  "Id": "hUqh",
   "Name": "SimpleInvoice_Body_documentContent",
   "Properties": [
     {
-      "Id": "Pb5m",
+      "Id": "bu8l",
       "Name": "firstColumnDetails",
-      "Type": "Custom:UT6g"
+      "Type": "Custom:ldlW"
     },
     {
-      "Id": "Q9OK",
+      "Id": "t0j0",
       "Name": "secondColumnDetails",
-      "Type": "Custom:UT6g"
+      "Type": "Custom:ldlW"
     },
     {
-      "Id": "k4Li",
+      "Id": "yLQ4",
       "Name": "totalPayable",
-      "Type": "Custom:GvZg"
+      "Type": "Custom:33pc"
     },
     {
-      "Id": "cS6S",
+      "Id": "DWbR",
       "Name": "tableDetails",
-      "Type": "Custom:Zkdg"
+      "Type": "Custom:7M9E"
     },
     {
-      "Id": "AJIZ",
+      "Id": "HQ2A",
       "Name": "text",
       "Type": "Compiled:String"
     }

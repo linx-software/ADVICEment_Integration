@@ -1,29 +1,29 @@
 {
-  "Id": "JDH9",
+  "Id": "YVo7",
   "Name": "TermSheet_Body_documentSettings_header",
   "Properties": [
     {
-      "Id": "REaG",
+      "Id": "fWY0",
       "Name": "headerLine",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "T1CX",
+      "Id": "LtCe",
       "Name": "leftContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "4y1q",
+      "Id": "yOcn",
       "Name": "centerContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "GJol",
+      "Id": "pHBd",
       "Name": "rightContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "2v86",
+      "Id": "mI83",
       "Name": "adjustMargin",
       "Type": "Compiled:String"
     }

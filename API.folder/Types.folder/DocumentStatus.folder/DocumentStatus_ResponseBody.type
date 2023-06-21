@@ -1,0 +1,41 @@
+{
+  "Id": "DmHE",
+  "Name": "DocumentStatus_ResponseBody",
+  "Properties": [
+    {
+      "Id": "Vetu",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tA8o",
+      "Name": "startedAt",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "I9ZG",
+      "Name": "statusCode",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "JHo8",
+      "Name": "statusDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XYU0",
+      "Name": "calculationLogUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DL82",
+      "Name": "latexLogUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "88V0",
+      "Name": "documentUrl",
+      "Type": "Compiled:String"
+    }
+  ]
+}

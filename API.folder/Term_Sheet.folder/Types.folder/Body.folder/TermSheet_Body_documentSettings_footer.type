@@ -1,29 +1,29 @@
 {
-  "Id": "8Ska",
+  "Id": "LOl3",
   "Name": "TermSheet_Body_documentSettings_footer",
   "Properties": [
     {
-      "Id": "5UQ7",
+      "Id": "UG5R",
       "Name": "footerLine",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "FPLo",
+      "Id": "vets",
       "Name": "leftContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "AQ6T",
+      "Id": "oPY9",
       "Name": "centerContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "borU",
+      "Id": "l14L",
       "Name": "rightContent",
       "Type": "Compiled:String"
     },
     {
-      "Id": "keML",
+      "Id": "hami",
       "Name": "adjustMargin",
       "Type": "Compiled:String"
     }

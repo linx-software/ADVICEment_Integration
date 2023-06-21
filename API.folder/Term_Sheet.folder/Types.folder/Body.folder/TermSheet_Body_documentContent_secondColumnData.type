@@ -1,31 +1,31 @@
 {
-  "Id": "Lp9Z",
+  "Id": "qaNE",
   "Name": "TermSheet_Body_documentContent_secondColumnData",
   "Properties": [
     {
-      "Id": "VwKl",
+      "Id": "C8da",
       "Name": "width",
       "Type": "Compiled:String"
     },
     {
-      "Id": "KaSR",
+      "Id": "FAOh",
       "Name": "heading",
       "Type": "Compiled:String"
     },
     {
-      "Id": "BsiV",
+      "Id": "f3gG",
       "Name": "tableLineSpacing",
       "Type": "Compiled:Double"
     },
     {
-      "Id": "Y7ox",
+      "Id": "EiWh",
       "Name": "columnType",
       "Type": "List:Compiled:String"
     },
     {
-      "Id": "2JjJ",
+      "Id": "xfas",
       "Name": "content",
-      "Type": "List:Custom:koF6"
+      "Type": "List:Custom:9VrR"
     }
   ]
 }

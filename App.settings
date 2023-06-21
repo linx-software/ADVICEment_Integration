@@ -1,20 +1,20 @@
 [
   {
-    "Id": "UffG",
+    "Id": "9AVd",
     "Name": "Advancement_APIKey",
     "Type": "Compiled:String",
     "Secret": true
   },
   {
-    "Id": "v33f",
+    "Id": "wuuQ",
     "Name": "LogoLocation",
     "Type": "Compiled:String",
-    "Value": ""
+    "Value": "C:\\Temp\\Logo\\Linx Logo Doc.png"
   },
   {
-    "Id": "pLLL",
+    "Id": "pMv7",
     "Name": "OutputLocation",
     "Type": "Compiled:String",
-    "Value": ""
+    "Value": "C:\\Temp\\Downloads\\"
   }
 ]

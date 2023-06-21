@@ -1,8 +1,11 @@
 {
-  "ApplicationVersion": "6.5.0",
+  "ApplicationVersion": "6.6.0",
   "SolutionVersion": 6,
   "Plugins": [
+    "twenty57.linx.plugins.async, 1.0.0",
+    "twenty57.linx.plugins.cryptography, 1.1.0",
     "twenty57.linx.plugins.file, 1.1.1",
+    "twenty57.linx.plugins.json, 1.0.2",
     "twenty57.linx.plugins.rest, 1.2.1",
     "twenty57.linx.plugins.standard, 1.1.0",
     "twenty57.linx.plugins.utilities, 1.1.0"

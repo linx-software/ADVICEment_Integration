@@ -1,91 +1,91 @@
 {
-  "Id": "l3Pd",
+  "Id": "sjJJ",
   "Name": "SimpleInvoice_Body_documentSettings",
   "Properties": [
     {
-      "Id": "oDnj",
+      "Id": "veov",
       "Name": "primaryHEXColour",
       "Type": "Compiled:String"
     },
     {
-      "Id": "nrgq",
+      "Id": "BUmH",
       "Name": "secondaryHEXColour",
       "Type": "Compiled:String"
     },
     {
-      "Id": "HohA",
+      "Id": "DRA8",
       "Name": "textHEXColour",
       "Type": "Compiled:String"
     },
     {
-      "Id": "mKfc",
+      "Id": "Yua2",
       "Name": "font",
       "Type": "Compiled:String"
     },
     {
-      "Id": "BZ7y",
+      "Id": "eBnb",
       "Name": "documentName",
       "Type": "Compiled:String"
     },
     {
-      "Id": "SrtO",
+      "Id": "PSLI",
       "Name": "logo",
       "Type": "Compiled:String"
     },
     {
-      "Id": "jI3F",
+      "Id": "Alka",
       "Name": "logoType",
       "Type": "Compiled:String"
     },
     {
-      "Id": "BLuK",
+      "Id": "HdLe",
       "Name": "logoWidth",
       "Type": "Compiled:String"
     },
     {
-      "Id": "WcCM",
+      "Id": "3pdt",
       "Name": "margins",
       "Type": "List:Compiled:String"
     },
     {
-      "Id": "hl8h",
+      "Id": "kzrn",
       "Name": "headheight",
       "Type": "Compiled:String"
     },
     {
-      "Id": "u6WW",
+      "Id": "Rvvy",
       "Name": "headsep",
       "Type": "Compiled:String"
     },
     {
-      "Id": "YvWQ",
+      "Id": "UKT7",
       "Name": "footskip",
       "Type": "Compiled:String"
     },
     {
-      "Id": "YnAS",
+      "Id": "Ir9e",
       "Name": "includehead",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "6Xou",
+      "Id": "1rVv",
       "Name": "includefoot",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "fEcF",
+      "Id": "hUuo",
       "Name": "showframe",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "qscc",
+      "Id": "YOVf",
       "Name": "header",
-      "Type": "Custom:a0c9"
+      "Type": "Custom:xqEg"
     },
     {
-      "Id": "a5rI",
+      "Id": "s24l",
       "Name": "footer",
-      "Type": "Custom:AFui"
+      "Type": "Custom:WZCO"
     }
   ]
 }

@@ -1,121 +1,121 @@
 {
-  "Id": "gKZX",
+  "Id": "c0FZ",
   "Name": "TermSheet_Body_documentSettings",
   "Properties": [
     {
-      "Id": "p9Ka",
+      "Id": "mCzo",
       "Name": "font",
       "Type": "Compiled:String"
     },
     {
-      "Id": "l1jK",
+      "Id": "fC2E",
       "Name": "fontSize",
       "Type": "Compiled:Int64"
     },
     {
-      "Id": "Oe7r",
+      "Id": "NxRe",
       "Name": "primaryHEXColour",
       "Type": "Compiled:String"
     },
     {
-      "Id": "KsSW",
+      "Id": "yadR",
       "Name": "secondaryHEXColour",
       "Type": "Compiled:String"
     },
     {
-      "Id": "1spP",
+      "Id": "7aA4",
       "Name": "textHEXColour",
       "Type": "Compiled:String"
     },
     {
-      "Id": "KcP8",
+      "Id": "cS4k",
       "Name": "documentName",
       "Type": "Compiled:String"
     },
     {
-      "Id": "AMDg",
+      "Id": "20lY",
       "Name": "logo",
       "Type": "Compiled:String"
     },
     {
-      "Id": "5tkp",
+      "Id": "AdNU",
       "Name": "logoType",
       "Type": "Compiled:String"
     },
     {
-      "Id": "DvGn",
+      "Id": "lpdt",
       "Name": "logoWidth",
       "Type": "Compiled:String"
     },
     {
-      "Id": "BOol",
+      "Id": "292C",
       "Name": "topMargin",
       "Type": "Compiled:String"
     },
     {
-      "Id": "ROQU",
+      "Id": "hciY",
       "Name": "rightMargin",
       "Type": "Compiled:String"
     },
     {
-      "Id": "nWQw",
+      "Id": "Fh4T",
       "Name": "bottomMargin",
       "Type": "Compiled:String"
     },
     {
-      "Id": "Gud5",
+      "Id": "hm7k",
       "Name": "leftMargin",
       "Type": "Compiled:String"
     },
     {
-      "Id": "BPQn",
+      "Id": "sEne",
       "Name": "headheight",
       "Type": "Compiled:String"
     },
     {
-      "Id": "fTOt",
+      "Id": "2o6A",
       "Name": "headsep",
       "Type": "Compiled:String"
     },
     {
-      "Id": "NSgR",
+      "Id": "AbnK",
       "Name": "footskip",
       "Type": "Compiled:String"
     },
     {
-      "Id": "1oeZ",
+      "Id": "CJRh",
       "Name": "marginparwidth",
       "Type": "Compiled:String"
     },
     {
-      "Id": "U0M4",
+      "Id": "Edku",
       "Name": "marginparsep",
       "Type": "Compiled:String"
     },
     {
-      "Id": "RNEo",
+      "Id": "wBm1",
       "Name": "includehead",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "OWH4",
+      "Id": "gUMK",
       "Name": "includefoot",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "e3Wz",
+      "Id": "hvZF",
       "Name": "showframe",
       "Type": "Compiled:Boolean"
     },
     {
-      "Id": "Tnm4",
+      "Id": "J67s",
       "Name": "header",
-      "Type": "Custom:JDH9"
+      "Type": "Custom:YVo7"
     },
     {
-      "Id": "LUX6",
+      "Id": "rUgy",
       "Name": "footer",
-      "Type": "Custom:8Ska"
+      "Type": "Custom:LOl3"
     }
   ]
 }

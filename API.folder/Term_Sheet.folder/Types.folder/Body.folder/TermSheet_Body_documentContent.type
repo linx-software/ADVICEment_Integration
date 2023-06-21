@@ -1,21 +1,21 @@
 {
-  "Id": "WLt4",
+  "Id": "tVyW",
   "Name": "TermSheet_Body_documentContent",
   "Properties": [
     {
-      "Id": "ZDF0",
+      "Id": "VH3H",
       "Name": "secondColumnData",
-      "Type": "Custom:Lp9Z"
+      "Type": "Custom:qaNE"
     },
     {
-      "Id": "Ziep",
+      "Id": "5EFe",
       "Name": "body",
-      "Type": "List:Custom:qjnB"
+      "Type": "List:Custom:VTZz"
     },
     {
-      "Id": "JyzQ",
+      "Id": "Mczo",
       "Name": "summaryTable",
-      "Type": "Custom:mJvx"
+      "Type": "Custom:Ahtd"
     }
   ]
 }

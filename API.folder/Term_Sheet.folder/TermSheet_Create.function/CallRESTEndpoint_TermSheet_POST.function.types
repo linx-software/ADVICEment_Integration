@@ -2,18 +2,18 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "nqs6",
+      "Id": "CIQ5",
       "Properties": [
         {
           "Id": "ResponseHeaders",
           "Name": "ResponseHeaders",
-          "Type": "List:Generated:6acq",
+          "Type": "List:Generated:JKVU",
           "Access": "ReadWrite"
         },
         {
           "Id": "ResponseBody",
           "Name": "ResponseBody",
-          "Type": "Custom:twfJ",
+          "Type": "Custom:J3zv",
           "Access": "ReadWrite"
         },
         {
@@ -28,7 +28,7 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "6acq",
+      "Id": "JKVU",
       "Properties": [
         {
           "Id": "Name",
