@@ -22,7 +22,7 @@ The solution has:
 
 ## Installation
 Download the solution and copy the elements you need into your solution, or make changes on this solution as needed. 
-
+You will need the Linx 6 Designer, get it [here.](https://linx.software/linx-download/)
 ## Usage
 The solution has two main functions that call a set of sub-functions. The main functions can 
 - Generate a Simple Invoice
